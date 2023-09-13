@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dim_gray">#626262</color>
+    <color name="storm_gray">#7a7a7b</color>
+    <color name="blue_smoke">#738376</color>
+    <color name="lochmara">#3352a3</color>
+    <color name="sage">#9bb4a0</color>
+    <color name="bay_leaf">#7fab88</color>
+    <color name="mandy">#cc4d4d</color>
+    <color name="rose_white">#fdf0ea</color>
+</resources>
